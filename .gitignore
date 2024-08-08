@@ -1,0 +1,76 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Gradle files
+.gradle/
+build/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local configuration file (SDK path, etc)
+local.properties
+
+# Log files
+*.log
+
+# Android specific
+*.apk
+*.ap_ 
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+*.swp
+*.swo
+
+# MacOS Finder
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# IDE-specific
+*.sublime-workspace
+*.sublime-project
+*.vscode/
+
+# Keystore files
+*.jks
+*.keystore
+
+# NDK
+obj/
+*.o
+*.a
+*.so
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Android Studio
+.idea/
+*.iml
+*.hprof
+*.ipr
+*.iws
+out/
+
+google-services.json
